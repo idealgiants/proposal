@@ -1,6 +1,4 @@
-## Ideal Giants
-
-_Ideal Giants: Turn the Lights On Inside Your Self_
+## Ideal Giants: Turn the Lights On Inside Your Self
 
 ### Request: NIF grant for my project
 
