@@ -6,5 +6,5 @@ This is a request for consideration for an NIF grant, or whatever support/guidan
 
 More to come soon.
 
-[Vision](/vision/)
+[Vision](vision.md)
 
